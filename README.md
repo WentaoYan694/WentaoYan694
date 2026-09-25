@@ -15,4 +15,4 @@ The delivery includes:
 
 [Implementation](https://github.com/HackaThon-jok/datathon/tree/main/analytics) · [Validation evidence](https://github.com/HackaThon-jok/datathon/tree/main/docs/evidence) · [Technical handoff](https://github.com/HackaThon-jok/datathon/blob/main/docs/ANALYTICS_HANDOFF.md)
 
-This work was developed with AI assistance. I owned the analytics workstream and submitted the delivery through my GitHub account; code, tests and documentation were drafted with OpenAI Codex. The [project record](https://github.com/HackaThon-jok/datathon/blob/main/docs/AI_CONVERSION_LOG.md) distinguishes the verified local results from human review and cloud integration status.
+Developed with AI assistance; see the [project development and validation record](https://github.com/HackaThon-jok/datathon/blob/main/docs/AI_CONVERSION_LOG.md).
